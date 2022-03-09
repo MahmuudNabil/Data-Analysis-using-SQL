@@ -1,2 +1,2 @@
 # Practise-sql
-this repository for my daily practice not compelete project for sql
+this repository for making Analysis on Data using mysql
